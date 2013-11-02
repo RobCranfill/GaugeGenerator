@@ -75,6 +75,7 @@ public void run()
 		try
 			{
 			ImageIO.write(img, "jpeg", new File(String.format(basename_, snapNumber++)));
+			System.out.printf(".");
 			}
 		catch (Exception e)
 			{
