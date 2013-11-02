@@ -22,3 +22,9 @@ LinearBargraph, Ladders,  0, 156, 320, 78,   0, 100,    123,    5
 This creates a window with three bargraphs (currently the only type of graph produced, but that will change soon!)
 that perform random walks of the data at different rates.
 
+
+Credits & Thanks
+-------
+
+Thanks to 'Harmonic Code' for the "SteelSeries" Java swing component library that I use to 
+create the display. See http://harmoniccode.blogspot.com/2010/08/java-swing-component-library.html
