@@ -1,4 +1,4 @@
 # type,         title,    x,   y,   w,   h, min, max, update, walk
-LinearBargraph, Frogs,    0,   0, 320, 78,   0, 100,    345,    5
-LinearBargraph, Snakes,   0,  78, 320, 78,   0, 100,   1234,    5
-LinearBargraph, Ladders,  0, 156, 320, 78,   0, 100,    123,    5
+LinearBargraph, Hyper-Pressure,    0,   0, 320, 78,   0, 100,    345,    5
+LinearBargraph, Slave Mode,   0,  78, 320, 78,   0, 100,   1234,    5
+LinearBargraph, Bogon Level,  0, 156, 320, 78,   0, 100,    123,    5
