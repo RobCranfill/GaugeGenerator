@@ -31,7 +31,7 @@ create the display. See http://harmoniccode.blogspot.com/2010/08/java-swing-comp
 
 2015 update: The SteelSeries library seems not to be available in its old location, 
 and I can't find a JAR for for it anywhere. The source code is now available on 
-[GitHub|https://github.com/HanSolo/SteelSeries-Swing]
+[GitHub](https://github.com/HanSolo/SteelSeries-Swing)
 but it's source only, so I've created a JAR to include here in my project.
 Please check the GitHub site to see if you might want to update this.
 
