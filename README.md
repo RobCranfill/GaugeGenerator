@@ -13,10 +13,10 @@ No programming necessary!
 The input to the program is a simple text file, like this
 
 ```
-# type,         title,    x,   y,   w,   h, min, max, update, walk
-LinearBargraph, Frogs,    0,   0, 320, 78,   0, 100,    345,    5
-LinearBargraph, Snakes,   0,  78, 320, 78,   0, 100,   1234,    5
-LinearBargraph, Ladders,  0, 156, 320, 78,   0, 100,    123,    5
+# type,         title,          x,   y,   w,   h, min, max, update, walk
+LinearBargraph, Hyper-Pressure, 0,   0, 320, 78,   0, 100,    345,    5
+LinearBargraph, Bogon Level,    0,  78, 320, 78,   0, 100,   1234,    5
+LinearBargraph, Framistat,      0, 156, 320, 78,   0, 100,    123,    5
 ```
 
 This creates a window with three bargraphs (currently the only type of graph produced, but that will change soon!)
